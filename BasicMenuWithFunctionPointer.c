@@ -6,7 +6,7 @@
   2=>Find max
   3=>Find min
   4=>Reverse
-  coded by Berkay Gürbüz github: https://github.com/berkaygurbuz
+  coded by Berkay GÃ¼rbÃ¼z github: https://github.com/berkaygurbuz
 */
 #include <stdio.h>
 #include <stdlib.h>
